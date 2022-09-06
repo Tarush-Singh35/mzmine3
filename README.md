@@ -2,7 +2,7 @@
 
 ### Ion Mobility Data Format Support
 
-Most of the commits are in the branch at:  <A HREF = "https://github.com/Tarush-Singh35/mzmine3/tree/waterdevclean"> Branch </A>
+Most of the commits are in the branch at:  <A HREF = "https://github.com/Tarush-Singh35/mzmine3/tree/waterdevclean">Branch</A>
 and at the corresponding pull request: https://github.com/mzmine/mzmine3/pull/763
 
 

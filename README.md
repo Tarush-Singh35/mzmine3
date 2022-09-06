@@ -2,7 +2,7 @@
 
 ### Ion Mobility Data Format Support
 
-Most of the commits are in the branch at: https://github.com/Tarush-Singh35/mzmine3/tree/waterdevclean
+Most of the commits are in the branch at:  <A HREF = "https://github.com/Tarush-Singh35/mzmine3/tree/waterdevclean"> Branch </A>
 and at the corresponding pull request: https://github.com/mzmine/mzmine3/pull/763
 
 
@@ -13,14 +13,14 @@ While building a more robust Import Task for MZmine. I was not able to implement
 
 ### Result
 
-Output:-https://docs.google.com/document/d/e/2PACX-1vQShlK_tj-gOyjO-sHmmxdy23YrW-OV7LFqpS_bPlSFDvaX-tToVRLAEENcomZJ2iutFJtU5JTvVbhX/pub
+Output:- <A HREF = "https://docs.google.com/document/d/e/2PACX-1vQShlK_tj-gOyjO-sHmmxdy23YrW-OV7LFqpS_bPlSFDvaX-tToVRLAEENcomZJ2iutFJtU5JTvVbhX/pub"> Result </A>
 
-Acknowledgments:
+### Acknowledgments:
 I want to thank my mentor, Steffen Heu, for their dedicated guidance and support throughout the project. I have learned much about MZmine 3 ecosystem and coding conventions, Code optimizations, Chemistry, Mass Spectroscopy, JavaFx, and the patch submission process. Also, I would like to thank all the reviewers for their code reviews and helpful comments on my patches. Special thanks to all MZmine3 community members for their advice and for providing a welcoming environment.
 
 Final Code Review:Pending
 
-GSoC project link: https://summerofcode.withgoogle.com/myprojects/details/GDw7Ye9P
+GSoC project link: <A HREF = "https://summerofcode.withgoogle.com/myprojects/details/GDw7Ye9P"> Google Summer of project </A> 
 
 ---
 

@@ -1,3 +1,30 @@
+## GSoC 2022 review
+
+### Ion Mobility Data Format Support
+
+Most of the commits are in the branch at: https://github.com/Tarush-Singh35/mzmine3/tree/waterdevclean
+and at the corresponding pull request: https://github.com/mzmine/mzmine3/pull/763
+
+
+In this Project, we Added the Support of the Water API so that the Users can import the water’s raw data and read the file. We Implemented the APIs using Water SDK and the Solution we came up with was to have an Intermediate scan to read the regular file in raw data file with no mobility and an Intermediate frame to read the ion mobility file in the Raw file. After implementation, the User is able to read metadata from both of these file and able to import the files.
+
+
+While building a more robust Import Task for MZmine. I was not able to implement different type of msmsInfo for the precursor due to data model restriction in Mzmine hence with new Data model Import Task has the potential to improve
+
+### Result
+
+
+
+Acknowledgments:
+I want to thank my mentor, Steffen Heu, for their dedicated guidance and support throughout the project. I have learned much about MZmine 3 ecosystem and coding conventions, Code optimizations, Chemistry, Mass Spectroscopy, JavaFx, and the patch submission process. Also, I would like to thank all the reviewers for their code reviews and helpful comments on my patches. Special thanks to all MZmine3 community members for their advice and for providing a welcoming environment.
+
+Final Code Review:Pending
+
+GSoC project link: https://summerofcode.withgoogle.com/projects/#6529966893694976
+
+---
+
+
 ![MZmine 3](logo/MZmine_logo_RGB.png)
 
 ![Build Status](https://github.com/mzmine/mzmine3/actions/workflows/gradle.yml/badge.svg?event=push)

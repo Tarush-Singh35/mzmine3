@@ -20,7 +20,7 @@ I want to thank my mentor, Steffen Heu, for their dedicated guidance and support
 
 Final Code Review:Pending
 
-GSoC project link: https://summerofcode.withgoogle.com/projects/#6529966893694976
+GSoC project link: https://summerofcode.withgoogle.com/myprojects/details/GDw7Ye9P
 
 ---
 
